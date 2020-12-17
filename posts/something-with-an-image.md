@@ -6,4 +6,4 @@ summary: test with image
 tags:
   - post
 ---
-1. ![an image](/static/img/dby6f8puwaaveug.jpeg "never ends")
+![test](/static/img/dby6f8puwaaveug.jpeg "never ends")
